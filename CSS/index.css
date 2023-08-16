@@ -1,0 +1,17 @@
+#nav {
+    height: 60px;
+    background-color: black;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+#logo {
+    color: #fff;
+    font-size: xx-large;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+#logo:hover {
+    cursor: pointer;
+}
